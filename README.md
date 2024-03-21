@@ -1,21 +1,5 @@
 # HyperImpute - A library for NaNs and nulls.
 
-<div align="center">
-
-[![Test In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zGm4VeXsJ-0x6A5_icnknE7mbJ0knUig?usp=sharing)
-[![Tests PR](https://github.com/vanderschaarlab/hyperimpute/actions/workflows/test_pr.yml/badge.svg)](https://github.com/vanderschaarlab/hyperimpute/actions/workflows/test_pr.yml)
-[![Tests Full](https://github.com/vanderschaarlab/hyperimpute/actions/workflows/test_full.yml/badge.svg)](https://github.com/vanderschaarlab/hyperimpute/actions/workflows/test_full.yml)
-[![Tutorials](https://github.com/vanderschaarlab/hyperimpute/actions/workflows/test_tutorials.yml/badge.svg)](https://github.com/vanderschaarlab/hyperimpute/actions/workflows/test_tutorials.yml)
-[![Documentation Status](https://readthedocs.org/projects/hyperimpute/badge/?version=latest)](https://hyperimpute.readthedocs.io/en/latest/?badge=latest)
-
-
-[![arXiv](https://img.shields.io/badge/arXiv-2206.07769-b31b1b.svg)](https://arxiv.org/abs/2206.07769)
-[![](https://pepy.tech/badge/hyperimpute)](https://pypi.org/project/hyperimpute/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-370/)
-[![slack](https://img.shields.io/badge/chat-on%20slack-purple?logo=slack)](https://join.slack.com/t/vanderschaarlab/shared_invite/zt-1pzy8z7ti-zVsUPHAKTgCd1UoY8XtTEw)
-
-
 ![image](https://github.com/vanderschaarlab/hyperimpute/raw/main/docs/arch.png "HyperImpute")
 
 </div>
